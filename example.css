@@ -1,0 +1,25 @@
+h1{
+    color:silver;
+    align-items: center;
+}
+
+h4{
+    color: grey;
+}
+
+a{
+    color: blue;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+video{
+
+    align-items: center;
+    
+}
+
+}
